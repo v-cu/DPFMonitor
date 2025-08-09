@@ -1,6 +1,6 @@
 # VAG DPF Monitor
 
-![left vent mount](\documentation\standard-version\images\left_vent_mount.jpg)
+![left vent mount](documentation/standard-version/images/left_vent_mount.jpg)
 
 [YouTube](https://youtu.be/WaTfjSRMaVM?si=2cajSNzQjHToZ489)
 
@@ -36,6 +36,6 @@ The device connects to your car via the OBD2 port, and all data is displayed on 
 
 ### Example of Recorded Logs:
 
-![log1](\documentation\standard-version\images\log1.png)
-![log2](\documentation\standard-version\images\log2.png)
+![log1](documentation/standard-version/images/log1.png)
+![log2](documentation/standard-version/images/log2.png)
 
