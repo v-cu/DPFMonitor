@@ -39,3 +39,4 @@ The device connects to your car via the OBD2 port, and all data is displayed on 
 ![log1](documentation/standard-version/images/log1.png)
 ![log2](documentation/standard-version/images/log2.png)
 
+Contact: potempa.rafal3@gmail.com
