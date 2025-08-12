@@ -44,10 +44,10 @@ The device connects to your car via the OBD2 port, and all data is displayed on 
 
 ### More photos:
 
-![display and obd2](documentation/common/images/display_and_obd2module.png)
-![mounting](documentation/common/images/mountig_system.png)
-![obd2](documentation/common/images/obd2_module.png)
-![pcba](documentation/common/images/PCBA.png)
-![comparison](documentation/common/images/standard_lite_comparison_display_size.png)
+![display and obd2](documentation/common/images/display_and_obd2module.jpg)
+![mounting](documentation/common/images/mountig_system.jpg)
+![obd2](documentation/common/images/obd2_module.jpg)
+![pcba](documentation/common/images/PCBA.jpg)
+![comparison](documentation/common/images/standard_lite_comparison_display_size.jpg)
 
 Contact: potempa.rafal3@gmail.com
